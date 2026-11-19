@@ -69,6 +69,6 @@ Random-number seed values in the source and configuration files are fixed reprod
 
 ## Citation and license
 
-Use `CITATION.cff` when citing this software. The version-specific Zenodo DOI is assigned after the initial GitHub Release is archived. No unissued DOI or repository URL is included here.
+Use `CITATION.cff` when citing this software. The frozen `v1.0.0-submission` release is permanently archived under the [version-specific Zenodo DOI](https://doi.org/10.5281/zenodo.24364828). The [concept DOI](https://doi.org/10.5281/zenodo.24364827) represents all versions. The corresponding [GitHub Release](https://github.com/xin-lu-creator/nearfield-localization-reproducibility/releases/tag/v1.0.0-submission) contains the release source and the frozen code-and-data ZIP.
 
 Software is licensed under the MIT License (`LICENSE`). Simulation data are supplied as reproducibility material; this license statement does not grant rights to the separately distributed scholarly article.
