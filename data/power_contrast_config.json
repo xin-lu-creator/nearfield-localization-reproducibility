@@ -1,0 +1,51 @@
+{
+  "simulation": "proper_complex_gaussian",
+  "paired_common_random_numbers": true,
+  "seed": 2026110606,
+  "n_per_state": 192,
+  "mean_power": 1.6,
+  "deltas": [
+    0.0,
+    0.35,
+    0.75,
+    1.15,
+    1.5
+  ],
+  "source_angle_deg": 20,
+  "source_range_m": 0.95,
+  "freq_hz": 1250.0,
+  "sound_speed_m_per_s": 343,
+  "sensor_positions_m": [
+    [
+      -0.24,
+      0.0,
+      0.0
+    ],
+    [
+      -0.12,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.12,
+      0.0,
+      0.0
+    ],
+    [
+      0.24,
+      0.0,
+      0.0
+    ]
+  ],
+  "maxiter": 120,
+  "replicates_per_noise_and_delta": 120,
+  "n_noise_structures": 2,
+  "initialization": "truth-blind fixed 4-start with contrast pilot",
+  "note": "delta=0 not identifiable; infinite CRB. No real-data validation.",
+  "release_date": "2026-11-18"
+}

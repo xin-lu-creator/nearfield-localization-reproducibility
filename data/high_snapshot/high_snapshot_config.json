@@ -1,0 +1,44 @@
+{
+  "seed_base": 20261110500,
+  "noise": "A",
+  "replicates_per_noise": 4000,
+  "n_per_state": 16384,
+  "powers": [
+    0.85,
+    1.6,
+    2.35
+  ],
+  "theta_true_deg": 21.7,
+  "range_true_m": 0.93,
+  "positions_m": [
+    [
+      -0.24,
+      0.0,
+      0.0
+    ],
+    [
+      -0.12,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.12,
+      0.0,
+      0.0
+    ],
+    [
+      0.24,
+      0.0,
+      0.0
+    ]
+  ],
+  "frequency_hz": 1250.0,
+  "simulation": "EXACT circular complex Gaussian sample covariance via complex Wishart Bartlett factor",
+  "optimizer": "four-start L-BFGS-B local Gaussian profile, no oracle start",
+  "bootstrap_replicates": 4000
+}

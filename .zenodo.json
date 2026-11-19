@@ -1,0 +1,23 @@
+{
+  "creators": [
+    {
+      "name": "Lu, Xin",
+      "affiliation": "Iwate University"
+    }
+  ],
+  "title": "Reproducibility code for near-field CRB in unknown colored noise",
+  "description": "Reproducibility code, fixed experiment configurations, and frozen numerical results for the manuscript \"Near-Field CRB for a Quasi-Stationary Source in Unknown Colored Noise\" by Xin Lu. Includes Profile ML, Werner-Jansson WSF, multi-state allocation, near-field Fisher-information checks, and diffuse-field model-mismatch experiments. No article manuscript or third-party audio is distributed.",
+  "version": "1.0.0-submission",
+  "access_right": "open",
+  "license": "mit",
+  "upload_type": "software",
+  "language": "eng",
+  "keywords": [
+    "near-field localization",
+    "Cramér-Rao bound",
+    "Fisher information",
+    "quasi-stationary source",
+    "unknown colored noise",
+    "reproducible simulation"
+  ]
+}

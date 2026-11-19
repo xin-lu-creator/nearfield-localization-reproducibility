@@ -1,0 +1,2 @@
+noise,T,n_per_state,n_total,replicates,angle_ratio,range_ratio,angle_ci_low,angle_ci_high,range_ci_low,range_ci_high,empirical_correlation,theoretical_correlation,range_rmse_m,bearing_rmse_deg,optimizer_success_fraction
+A,3,16384,49152,4000,1.02429570146484,1.0080865094370857,0.9793580159534855,1.070193721339028,0.9648369082219524,1.0539965753848162,-0.44879162608209955,-0.43224805914352965,0.02986883851748212,0.13694570689800048,1.0

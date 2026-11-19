@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software or the associated simulation data, cite the archived software release."
+type: software
+title: "Reproducibility code for near-field CRB in unknown colored noise"
+authors:
+  - family-names: Lu
+    given-names: Xin
+    affiliation: Iwate University
+version: "1.0.0-submission"
+license: MIT
+keywords:
+  - near-field localization
+  - Fisher information
+  - quasi-stationary source
+  - colored noise
+repository-code: "https://github.com/xin-lu-creator/nearfield-localization-reproducibility"

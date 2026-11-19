@@ -1,0 +1,39 @@
+{
+  "seed": 2026110609,
+  "theta_true_deg": 21.7,
+  "range_true_m": 0.93,
+  "n_values": [
+    192,
+    768,
+    3072
+  ],
+  "contrasts": [
+    0.75,
+    1.5
+  ],
+  "replicates": 1000,
+  "maxiter": 120,
+  "noise": [
+    "A",
+    "B"
+  ],
+  "angle_search_deg": [
+    -70,
+    70
+  ],
+  "range_search_m": [
+    0.4,
+    3.0
+  ],
+  "angle_pilot_grid_deg": "-60:4:60; truth off grid",
+  "range_pilot_grid_m": [
+    0.55,
+    0.75,
+    1.0,
+    1.5,
+    2.2
+  ],
+  "pairing": "same random draws across n and delta per noise/replicate",
+  "nuisance": "unknown shared full Hermitian positive-definite covariance",
+  "release_date": "2026-11-18"
+}
